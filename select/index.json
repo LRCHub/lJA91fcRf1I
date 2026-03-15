@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Don't Leave Me Alone",
+  "base_artist": "David Guetta",
+  "createdAt": "2026-03-15T20:02:36.120469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Leave Me Alone",
+      "artist": "GOT7",
+      "has_synced": true,
+      "path": "select/01_Don't_Leave_Me_Alone_GOT7.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Leave Me Alone",
+      "artist": "Alcazar",
+      "has_synced": false,
+      "path": "select/02_Don't_Leave_Me_Alone_Alcazar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(don’t) Leave me alone",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/03_(don’t)_Leave_me_alone_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dont Leave Me Alone",
+      "artist": "Alcazar",
+      "has_synced": false,
+      "path": "select/04_Dont_Leave_Me_Alone_Alcazar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(don't)Leave me alone",
+      "artist": "滨崎步",
+      "has_synced": true,
+      "path": "select/05_(don't)Leave_me_alone_滨崎步.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "don't leave me alone",
+      "artist": "SmrtDeath",
+      "has_synced": false,
+      "path": "select/06_don't_leave_me_alone_SmrtDeath.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don’t Leave Me Alone",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/07_Don’t_Leave_Me_Alone_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(don’t) Leave me alone",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/08_(don’t)_Leave_me_alone_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Leave Me Alone",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/09_Don't_Leave_Me_Alone_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don’t Leave Me Alone",
+      "artist": "GOT7 (갓세븐)",
+      "has_synced": true,
+      "path": "select/10_Don’t_Leave_Me_Alone_GOT7_(갓세븐).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don’t Leave Me Alone",
+      "artist": "Ashanti",
+      "has_synced": true,
+      "path": "select/11_Don’t_Leave_Me_Alone_Ashanti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't leave me alone",
+      "artist": "Yerin Baek",
+      "has_synced": true,
+      "path": "select/12_Don't_leave_me_alone_Yerin_Baek.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Leave Me Alone",
+      "artist": "Tarkan",
+      "has_synced": true,
+      "path": "select/13_Don't_Leave_Me_Alone_Tarkan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Leave Me Alone",
+      "artist": "Chxrlotte",
+      "has_synced": true,
+      "path": "select/14_Don't_Leave_Me_Alone_Chxrlotte.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Leave Me Alone!",
+      "artist": "crafTUNER",
+      "has_synced": true,
+      "path": "select/15_Don't_Leave_Me_Alone!_crafTUNER.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(don’t) Leave me alone",
+      "artist": "Hamasaki Ayumi",
+      "has_synced": false,
+      "path": "select/16_(don’t)_Leave_me_alone_Hamasaki_Ayumi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Leave Me Alone (feat. Anne-Marie)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Leave_Me_Alone_(feat._Anne-Marie)_David_Guetta.txt"
+    }
+  ]
+}
